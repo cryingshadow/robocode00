@@ -14,7 +14,6 @@ public class TestBot extends Robot {
             ahead(radius);
             turnLeft(angle);
             turnGunLeft(angle);
-            fireBullet(getEnergy());
         }
     }
 
