@@ -8,7 +8,7 @@ public class TestBot extends Robot {
     public void run() {
 
         double radius = 100.0;
-        double angle = 90.0 // Yes, I am that smart!
+        double angle = 90.0;
 
         while (true) {
             ahead(radius);
